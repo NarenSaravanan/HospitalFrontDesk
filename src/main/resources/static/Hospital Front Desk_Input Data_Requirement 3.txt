@@ -1,0 +1,61 @@
+[	{
+		"patientName": "Deepak",
+		"status": "Discharge",
+		"hospitalName": "Greenways Hospital"	
+	},
+	{
+		"patientName": "Kannan",
+		"status": "Discharge",
+		"hospitalName": "Greenways Hospital"	
+	},
+	{
+		"patientName": "Walter",
+		"status": "Admitted",
+		"hospitalName": "Greenways Hospital"	
+	},
+	{
+		"patientName": "Tommy",
+		"status": "Admitted",
+		"hospitalName": "Greenways Hospital"	
+	},
+	{
+		"patientName": "Philips",
+		"status": "Admitted",
+		"hospitalName": "Hospital BlueFountain"	
+	},
+	{
+		"patientName": "Louis",
+		"status": "Admitted",
+		"hospitalName": "Hospital BlueFountain"	
+	},
+	{
+		"patientName": "Anaya",
+		"status": "Discharge",
+		"hospitalName": "Hospital BlueFountain"	
+	},
+	{
+		"patientName": "Avanthika",
+		"status": "Admitted",
+		"hospitalName": "Hospital BlueFountain"	
+	},
+	{
+		"patientName": "Meghna",
+		"status": "Admitted",
+		"hospitalName": "Hospital WhitePearls"	
+	},
+	{
+		"patientName": "Jaime",
+		"status": "Admitted",
+		"hospitalName": "Hospital WhitePearls"	
+	},
+	{
+		"patientName": "Robert",
+		"status": "Admitted",
+		"hospitalName": "Hospital WhitePearls"	
+	},
+	{
+		"patientName": "Sucre",
+		"status": "Admitted",
+		"hospitalName": "Hospital WhitePearls"	
+	}
+]

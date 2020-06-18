@@ -1,0 +1,145 @@
+[{
+		"type": "Dentist",
+		"name": "Deepthi",
+		"availableDay": "Monday, Thursday",
+		"availableTime": "6 PM to 8 PM",
+		"isAvailable": "Y",
+		"hospital": {
+			"hospitalId": "501",
+			"hospitalName": "Greenways Hospital",
+			"availableBeds": "5"
+		}
+	},
+	{
+		"type": "Cardiologist",
+		"name": "Dinesh",
+		"availableDay": "Monday, Tuesday",
+		"availableTime": "5 PM to 7 PM",
+		"isAvailable": "Y",
+		"hospital": {
+			"hospitalId": "501",
+			"hospitalName": "Greenways Hospital",
+			"availableBeds": "5"
+		}
+	},
+	{
+		"type": "Cardiologist",
+		"name": "Mohan Kumar",
+		"availableDay": "Tuesday, Friday",
+		"availableTime": "10 AM to 12 PM",
+		"isAvailable": "Y",
+		"hospital": {
+			"hospitalId": "501",
+			"hospitalName": "Greenways Hospital",
+			"availableBeds": "5"
+		}
+	},
+	{
+		"type": "ENT",
+		"name": "Ramya",
+		"availableDay": "Wednesday, Saturday",
+		"availableTime": "3 PM to 5 PM",
+		"isAvailable": "N",
+		"hospital": {
+			"hospitalId": "501",
+			"hospitalName": "Greenways Hospital",
+			"availableBeds": "5"
+		}
+	},
+	{
+		"type": "Dentist",
+		"name": "John Walker",
+		"availableDay": "Tuesday, Friday",
+		"availableTime": "10 AM to 12 PM",
+		"isAvailable": "Y",
+		"hospital": {
+			"hospitalId": "505",
+			"hospitalName": "Hospital BlueFountain",
+			"availableBeds": "7"
+		}
+	},
+	{
+		"type": "Dentist",
+		"name": "Mike Anderson",
+		"availableDay": "Saturday, Sunday",
+		"availableTime": "5 PM to 7 PM",
+		"isAvailable": "Y",
+		"hospital": {
+			"hospitalId": "505",
+			"hospitalName": "Hospital BlueFountain",
+			"availableBeds": "7"
+		}
+	},
+	{
+		"type": "Cardiologist",
+		"name": "Kate",
+		"availableDay": "Wednesday, Thursday",
+		"availableTime": "10 AM to 12 PM",
+		"isAvailable": "N",
+		"hospital": {
+			"hospitalId": "505",
+			"hospitalName": "Hospital BlueFountain",
+			"availableBeds": "7"
+		}
+	},
+	{
+		"type": "ENT",
+		"name": "Skyler",
+		"availableDay": "Thursday, Sunday",
+		"availableTime": "1 PM to 3 PM",
+		"isAvailable": "Y",
+		"hospital": {
+			"hospitalId": "505",
+			"hospitalName": "Hospital BlueFountain",
+			"availableBeds": "7"
+		}
+	},
+	{
+		"type": "Dentist",
+		"name": "Prakash Yadhav",
+		"availableDay": "Thursday, Saturday",
+		"availableTime": "1 PM to 3 PM",
+		"isAvailable": "N",
+		"hospital": {
+			"hospitalId": "510",
+			"hospitalName": "Hospital WhitePearls",
+			"availableBeds": "4"
+		}
+	},
+	{
+		"type": "ENT",
+		"name": "Vinodh",
+		"availableDay": "Monday, Tuesday",
+		"availableTime": "8 AM to 10 AM",
+		"isAvailable": "Y",
+		"hospital": {
+			"hospitalId": "510",
+			"hospitalName": "Hospital WhitePearls",
+			"availableBeds": "4"
+		}
+	},
+	{
+		"type": "Cardiologist",
+		"name": "Elizabeth",
+		"availableDay": "Friday, Sunday",
+		"availableTime": "9 AM to 12 PM",
+		"isAvailable": "Y",
+		"hospital": {
+			"hospitalId": "510",
+			"hospitalName": "Hospital WhitePearls",
+			"availableBeds": "4"
+		}
+	},
+	{
+		"type": "ENT",
+		"name": "Alice",
+		"availableDay": "Friday, Saturday",
+		"availableTime": "10 AM to 1 PM",
+		"isAvailable": "Y",
+		"hospital": {
+			"hospitalId": "510",
+			"hospitalName": "Hospital WhitePearls",
+			"availableBeds": "4"
+		}
+	}
+]
