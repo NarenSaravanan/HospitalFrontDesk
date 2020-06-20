@@ -1,4 +1,4 @@
-package com.hospital.frontdesk.data;
+package com.hospital.frontdesk.repository;
 
 import java.util.List;
 

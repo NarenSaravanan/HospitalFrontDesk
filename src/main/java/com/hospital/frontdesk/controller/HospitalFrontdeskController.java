@@ -23,7 +23,7 @@ public class HospitalFrontdeskController {
 	@GetMapping("${specialist.getAllSpecialistDetailsURL}")
 	public List<Specialist> getAllSpecialistDetails() {
 		
-		return (hospitalFrontDeskService.getAllSpecialistDetails());
+		return hospitalFrontDeskService.getAllSpecialistDetails();
 		
 	}
 	
@@ -31,7 +31,7 @@ public class HospitalFrontdeskController {
 	public List<Specialist> getDetailsByHospitalNameAndType(@PathVariable String hospitalName,
 			@RequestParam(value = "type", required = true) String specialistType) {
 		
-		return (hospitalFrontDeskService.getDetailsByHospitalNameAndType(hospitalName, specialistType));		
+		return hospitalFrontDeskService.getDetailsByHospitalNameAndType(hospitalName, specialistType);		
 		
 	}
 	
@@ -41,14 +41,14 @@ public class HospitalFrontdeskController {
 			@RequestParam(value = "patientName", required = true) String patientName,
 			@RequestParam(value = "appointmentDay", required = true) String appointmentDay) {
 		
-		return (hospitalFrontDeskService.scheduleAppointment(hospitalName, specialistName,patientName,appointmentDay));		
+		return hospitalFrontDeskService.scheduleAppointment(hospitalName, specialistName,patientName,appointmentDay);		
 		
 	}
 	
 	@GetMapping(value = "${hospital.getAvailableBedsURL}")
 	public String getAvailableBeds(@PathVariable String hospitalName) {
 		
-		return (hospitalFrontDeskService.getAvailableBeds(hospitalName));		
+		return hospitalFrontDeskService.getAvailableBeds(hospitalName);		
 		
 	}
 

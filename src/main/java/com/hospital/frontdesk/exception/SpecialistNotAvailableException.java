@@ -1,4 +1,4 @@
-package com.hospital.frontdesk.exceptionhandler;
+package com.hospital.frontdesk.exception;
 
 public class SpecialistNotAvailableException extends RuntimeException {
 	

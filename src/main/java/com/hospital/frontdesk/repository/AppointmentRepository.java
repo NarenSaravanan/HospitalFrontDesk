@@ -1,4 +1,4 @@
-package com.hospital.frontdesk.data;
+package com.hospital.frontdesk.repository;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;

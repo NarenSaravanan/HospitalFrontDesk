@@ -10,12 +10,12 @@ import org.springframework.stereotype.Service;
 import com.hospital.frontdesk.dao.Appointment;
 import com.hospital.frontdesk.dao.Patient;
 import com.hospital.frontdesk.dao.Specialist;
-import com.hospital.frontdesk.data.AppointmentRepository;
-import com.hospital.frontdesk.data.PatientRepository;
-import com.hospital.frontdesk.data.SpecialistRepository;
-import com.hospital.frontdesk.exceptionhandler.HospitalNotFoundException;
-import com.hospital.frontdesk.exceptionhandler.SpecialistNotAvailableException;
-import com.hospital.frontdesk.exceptionhandler.SpecialistNotFoundException;
+import com.hospital.frontdesk.exception.HospitalNotFoundException;
+import com.hospital.frontdesk.exception.SpecialistNotAvailableException;
+import com.hospital.frontdesk.exception.SpecialistNotFoundException;
+import com.hospital.frontdesk.repository.AppointmentRepository;
+import com.hospital.frontdesk.repository.PatientRepository;
+import com.hospital.frontdesk.repository.SpecialistRepository;
 
 @Service
 public class HospitalFrontdeskService {
